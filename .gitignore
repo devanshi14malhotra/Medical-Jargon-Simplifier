@@ -12,15 +12,8 @@ env/
 # Logs
 *.log
 
-# Model checkpoints
-*.pt
-*.pth
-
 # Training histories & metrics
 *_history.json
 *_metrics.json
-
-# Generated figures
-*.png
 
 # data/
